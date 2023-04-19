@@ -17,8 +17,9 @@ The ResNet models have a modified fully connected layer that consists of two lin
 ### VGG
 Similarly, the last layer of VGG-16 was modified for our task and was fine-tuned.
 
+
 ### Results
 | Accuracy | Loss |
 | -------- | -------- |
-| <img src="https://github.com/abuba8/StressSnap/tree/main/results/acc.JPG" alt="Accuracy plot of ResNetAttention Model"> | <img src="https://github.com/abuba8/StressSnap/tree/main/results/loss.JPG" alt="Training/Validation loss plot of ResNetAttention Model"> |
+| ![alt text](results/acc.JPG) | ![alt text](results/loss.JPG) |
 
